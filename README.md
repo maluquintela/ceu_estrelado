@@ -1,19 +1,19 @@
 # Céu Estrelado
 
-Aponte a câmera do celular para o céu e descubra qual constelação você está vendo.
+Point your phone's camera at the sky and find out which constellation you're looking at.
 
-## A ideia
+## The Idea
 
-Olhar para o céu à noite e reconhecer as constelações é difícil para quem não estudou astronomia. O Céu Estrelado resolve isso: você tira uma foto do céu, e o app mostra qual constelação está ali, desenhando as linhas que ligam as estrelas e os nomes de cada uma.
+Looking up at the night sky and recognizing constellations is hard if you've never studied astronomy. Céu Estrelado solves that: you take a photo of the sky, and the app shows which constellation is there, drawing the lines that connect the stars and labeling each one by name.
 
-## Como funciona
+## How It Works
 
-O app combina duas fontes de informação:
+The app combines two sources of information:
 
-1. **Onde você está e para onde está apontando.** Com a localização, o horário e os sensores do celular (bússola e acelerômetro), o app calcula aproximadamente qual parte do céu está na frente da câmera. Isso importa porque o céu visível muda conforme o lugar do mundo, a hora e a época do ano. Quem está no Brasil vê estrelas diferentes de quem está na Europa.
+1. **Where you are and where you're pointing.** Using your location, the time, and the phone's sensors (compass and accelerometer), the app estimates which part of the sky is in front of the camera. This matters because the visible sky changes with your location, the time of night, and the season. Someone in Brazil sees different stars than someone in Europe.
 
-2. **O que a câmera realmente vê.** Os sensores do celular erram, então o app também analisa a foto: encontra as estrelas na imagem e compara o desenho que elas formam com um catálogo astronômico, como quem reconhece uma figura ligando pontos. Quando o padrão bate, a constelação é identificada com precisão.
+2. **What the camera actually sees.** Phone sensors are imprecise, so the app also analyzes the photo: it finds the stars in the image and matches the pattern they form against an astronomical catalog, much like recognizing a picture by connecting the dots. When the pattern matches, the constellation is identified precisely.
 
 ## Status
 
-Em desenvolvimento. 
+In development.
