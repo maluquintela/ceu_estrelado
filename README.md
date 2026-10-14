@@ -16,4 +16,4 @@ O app combina duas fontes de informação:
 
 ## Status
 
-🚧 Em desenvolvimento. A primeira etapa é construir e validar o algoritmo de reconhecimento em Python, antes de levá-lo para o celular.
+Em desenvolvimento. 
